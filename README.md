@@ -1,4 +1,4 @@
-# Micro Catalog
+# RabbitMQ
 
 Projeto Desenvolvido no curso **Desenvolvimento de Aplicações Modernas e Escaláveis com Microsserviços** da *[Code Education](https://code.education/)*
 
